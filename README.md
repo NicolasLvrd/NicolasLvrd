@@ -11,4 +11,4 @@ Here are some projects I'm currently working on
 In my free time I'm working on a train ticket price tracker for TGVmax subscription.
 
 ### 📫 How to reach me ?
-Feel free to reach me out through [LinkedIn](https://www.linkedin.com/in/nicolas-levrard-6b65b51a9/)
+Feel free to reach me out through [LinkedIn](https://www.linkedin.com/in/nicolas-levrard-6b65b51a9/).
