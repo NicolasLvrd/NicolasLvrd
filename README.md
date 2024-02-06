@@ -1,5 +1,5 @@
 ### Welcome to my GitHub page 👋
-I am Nicolas Levrard. I am a telecom engineering student at [INSA Lyon](https://www.insa-lyon.fr) and a junior full stack developer intern at [Les Biens en Commun](https://lesbiensencommun.com/).
+I am Nicolas Levrard. I am a telecom engineering student at [INSA Lyon](https://www.insa-lyon.fr).
 
 ### 🔭 My favorite projects
 - [front-end](https://github.com/NicolasLvrd/front) and [back-end](https://github.com/NicolasLvrd/back) development for a MEVN stack website which aims to help students choose an engineering major at INSA Lyon
